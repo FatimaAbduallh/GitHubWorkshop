@@ -1,5 +1,6 @@
 #include<iostream>
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include<string>
 using namespace std;
 
@@ -38,11 +39,19 @@ int main() {
 >>>>>>> Function3
 }
 =======
+=======
+>>>>>>> enhanceFun
 using namespace std;
 
 //function4
 string myName() {
+<<<<<<< HEAD
 	cout<<"fatima Abduall"
+=======
+	cout << "fatima Abduall"
+		cout << "Bawzir";
+	cout << "now Iam doing homework";
+>>>>>>> enhanceFun
 }
 
 
@@ -50,5 +59,9 @@ string myName() {
 
 int main() {
 	cout << myName();
+<<<<<<< HEAD
 }
 >>>>>>> Function4
+=======
+}
+>>>>>>> enhanceFun
