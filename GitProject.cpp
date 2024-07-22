@@ -1,4 +1,5 @@
 #include<iostream>
+<<<<<<< HEAD
 #include<string>
 using namespace std;
 
@@ -36,3 +37,18 @@ int main() {
 	cout << multiplictionOfTwoNumbers(4,5);
 >>>>>>> Function3
 }
+=======
+using namespace std;
+
+//function4
+string myName() {
+	cout<<"fatima Abduall"
+}
+
+
+
+
+int main() {
+	cout << myName();
+}
+>>>>>>> Function4
