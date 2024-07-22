@@ -5,6 +5,7 @@ using namespace std;
 string myName() {
 	cout << "fatima Abduall"
 		cout << "Bawzir";
+	cout << "now Iam doing homework";
 }
 
 
